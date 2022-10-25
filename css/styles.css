@@ -13,7 +13,7 @@
     --features-icon-background: #F5F4FA;
     --features-icon-color:#212121;
     --footer-icon-background:#43444d;
-    --team-icon-color:red;
+    --team-icon-color:#AFB1B8;
     --client-border-color:#AFB1B8;
     --client-logo-color:#AFB1B8;
   }
@@ -337,8 +337,7 @@
   
   .team-icon-link:hover,
   .team-icon-link:focus{
-    /* color:var(--primary-white-color); */
-    color: red;
+    color:var(--primary-white-color);
     background-color:var(--accent-color);
     border-radius: 50%;
   }
